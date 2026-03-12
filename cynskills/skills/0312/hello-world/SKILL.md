@@ -1,6 +1,6 @@
 ---
 name: hello-world
-description: 打招呼并自我介绍。当用户说"你好"、"hello"、或要求自我介绍时使用。
+description: 1111打招呼并自我介绍。当用户说"你好"、"hello"、或要求自我介绍时使用。
 ---
 
 # Hello World
